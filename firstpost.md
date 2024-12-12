@@ -3,7 +3,7 @@ title: "Pragadeeshwaran's Beautiful Journey: From Failure to Fortune"
 date: "2024-12-12"
 ---
 
-Pragadeeshwaran: From Failure to Warrior
+Pragadeeshwaran: From Failure to Fortunate
 
 Life is full of unexpected twists and turns, and sometimes, what seems like a failure can open the door to a life of purpose and passion. This is the story of how I, Pragadeeshwaran, transformed my life from the disappointment of not pursuing MBBS to discovering my love for coding and programming.
 
